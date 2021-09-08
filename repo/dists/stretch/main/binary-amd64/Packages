@@ -1,0 +1,31 @@
+Package: helloworld
+Priority: extra
+Section: 
+Maintainer: me
+Architecture: amd64
+Version: 0.0.1+wagnerm1
+Filename: pool/main/h/helloworld/helloworld_0.0.1+wagnerm1_amd64.deb
+Size: 778
+MD5sum: 88ba3091de19bf1a164b3252ca6c08af 
+SHA1: bdba87fd79a3451e775f5ca94aae9f12bb6856be 
+SHA256: 3c54fa295170ffe57fc891eb5806e03c8de84e196524241f9965179b66f26b9b 
+SHA512: 5a45805ebc09dc5b7b2df28557caf93a8d1f6615d7f6f8802aa2e8a9c53f09d7fc355b75c237f7ec410a294427ac1dbe5146e68bd54a0f00c9e0ef8dec0663b9 
+Description: A simple package to echo Hello, world
+Standards-Version: 3.9.1
+Homepage: https://github.com/bensherman/helloworld
+
+Package: helloworld
+Priority: extra
+Section: 
+Maintainer: me 
+Architecture: amd64
+Version: 0.0.1+wagnerm2
+Filename: pool/main/h/helloworld/helloworld_0.0.1+wagnerm2_amd64.deb
+Size: 778
+MD5sum: 88ba3091de19bf1a164b3252ca6c08af
+SHA1: bdba87fd79a3451e775f5ca94aae9f12bb6856be
+SHA256: 3c54fa295170ffe57fc891eb5806e03c8de84e196524241f9965179b66f26b9b
+SHA512: 5a45805ebc09dc5b7b2df28557caf93a8d1f6615d7f6f8802aa2e8a9c53f09d7fc355b75c237f7ec410a294427ac1dbe5146e68bd54a0f00c9e0ef8dec0663b9
+Description: A simple package to echo Hello, world
+Standards-Version: 3.9.1
+Homepage: https://github.com/bensherman/helloworld
